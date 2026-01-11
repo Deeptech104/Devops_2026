@@ -1,0 +1,7 @@
+ls
+-l
+mkldir 
+touch 
+nano 
+echo 
+cat 

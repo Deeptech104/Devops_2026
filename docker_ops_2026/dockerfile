@@ -1,0 +1,4 @@
+FROM python:3.11-slim
+WORKDIR /app
+COPY index1.py .
+CMD ["python", "index1.py"]

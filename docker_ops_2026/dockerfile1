@@ -1,0 +1,4 @@
+FORM python:3.11-sim
+WORKING /app
+COPY index.py. 
+CMD ["python" , "index1.py"]
